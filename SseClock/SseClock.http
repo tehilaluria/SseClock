@@ -1,0 +1,6 @@
+@SseClock_HostAddress = http://localhost:5215
+
+GET {{SseClock_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
